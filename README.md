@@ -1,5 +1,7 @@
 # interactive circular/elliptic motion demo
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb6fa8d74e0248bf90f844c5d2ae857a)](https://app.codacy.com/manual/cleoold/circulars_space?utm_source=github.com&utm_medium=referral&utm_content=cleoold/circulars_space&utm_campaign=Badge_Grade_Settings)
+
 * uniform circular motion
 
 ![uniform circular motion](https://cleoold.com/wp-content/uploads/2019/08/ffawvv.gif)
